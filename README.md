@@ -2,7 +2,9 @@
 This is my PCB design portfolio, where I show and discuss my recent circuit design projects. I design my circuits in KiCAD, though I have previous experience with Altium. 
 
 Design 1: ESP32 Bluetooth DAC - Compatible with BMW E9X Media Controls
+
   Objective: 
+  
   Implement a seamless Bluetooth audio interface with my BMW E90 3 Series (non-iDrive), with working media controls. In addition, leave provisioning for more devices in the future, like gauges and media displays. 
   
   Key Specifications: 
